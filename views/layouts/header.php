@@ -16,7 +16,7 @@
            
             <li class="nav-item"><a class="nav-link" href="../auth/login.php">Login</a></li>
             <li class="nav-item"><a class="nav-link" href="../auth/register.php">Register</a></li>
-            <li class="nav-item"><a class="nav-link" href="#">Logout</a></li>
+            <li class="nav-item"><a class="nav-link" href="../auth/logout.php">Logout</a></li>
            
             <!-- Check if the user is authenticated -->
             <?php
